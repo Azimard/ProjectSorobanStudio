@@ -45,12 +45,8 @@ Each ingredient stores:
 ---
 
 ## 📸 Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56db427f-d902-4d3b-82d4-9ba1a755c3d3" />
 
-### Add Ingredient — Transaction Submitted
-![add_ingredient](screenshots/add_ingredient.png)
-
-### Get All Ingredients — Read Result
-![get_all](screenshots/get_all.png)
 
 ---
 
